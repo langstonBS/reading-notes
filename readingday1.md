@@ -1,0 +1,5 @@
+Htms or hyper tehs m mark up angwage is  a mark uplangwage that defiends the layout. It is ment for marking u;p the test and for input pictuyres.  the markup needs to be difiend well for screen readers and for acseesing the hatme by css or java Sript.
+
+Css or cascade style sheets. Css creates the style of the page.  If you are using the box moddle it givs the text flow and if you want to do any visual makrup to the  page that is what css is for.  It it is yoused to create a text style and all visual spects of the page.  It is diffind by tags. can be difind on the page or can be difind by an outside liked up document.
+
+Javascript.  it is the progrmaing langwage that interacts with the web using the DOMl. To start to write a script you need first a defind goal.  then breakit up in the methods need to do the task and then crete funtions (that do one step of the goal).  java is used by interacting with objects an object is a contaner that holds like elements.  if an object is an house then the color of the walls and the door would be a varable in the house.
