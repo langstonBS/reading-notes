@@ -1,0 +1,21 @@
+## js book
+### order of execustion 
+- order of execustion 
+- look at the order 
+- globl exposer 
+- code prossed as run and will crap out on the place
+- execusion content and hosting 
+- scope is created
+- exicute scope
+- scope is the reach of the internal varables of a fuction 
+- error handuling and event handeling 
+- erro objects 
+- syntaxEorr a type aof ere tht hase to do with nameing
+- eval errro the eror is worng 
+- frefeances ares the varabel dose not exsist
+- type error there is somehtin wrong with an errror
+- rangeerror using somting outside of the fuctino 
+-  brake points 
+- stepping throug code 
+- hander exceptions
+- try ceatch 
