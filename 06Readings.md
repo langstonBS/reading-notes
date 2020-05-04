@@ -1,0 +1,11 @@
+## What Is Node.js?
+- Node.js® is a JavaScript runtime built on Chrome’s V8 JavaScript engine
+- Introducing npm, the JavaScript Package Manager 
+- node is a part of npm
+- Installing a Package Globally
+- installing node globlaly 
+- Working with the package.json File
+- Node.js Lets Us Run JavaScript on the Server
+- Node.js, however, is single-threaded. It’s also event-drive
+- Node is particularly suited to building applications that require some form of real-time interaction or collaboration
+- can use node througout the whol stack
